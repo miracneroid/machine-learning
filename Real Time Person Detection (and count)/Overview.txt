@@ -1,0 +1,4 @@
+Person Detection only
+
+Reference Links :
+1) https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
